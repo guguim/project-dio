@@ -53,5 +53,3 @@ Faça uma requisição REST POST para a rota de checkout utilizando ferramentas 
 }
 ```
 
----
-*Desenvolvido como desafio prático de Design Patterns, expandido visando alto nível técnico de portfólio no GitHub.*
